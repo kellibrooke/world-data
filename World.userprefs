@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{CD51E996-10D6-4DDE-A210-A64037BFAA6D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Views/Home/FilterPage.cshtml">
+    <Files>
+      <File FileName="Controllers/HomeController.cs" Line="24" Column="1" />
+      <File FileName="Program.cs" Line="25" Column="1" />
+      <File FileName="Models/Country.cs" Line="76" Column="40" NotebookId="1" />
+      <File FileName="Models/Database.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Startup.cs" Line="61" Column="118" NotebookId="1" />
+      <File FileName="Views/Home/Index.cshtml" Line="20" Column="43" NotebookId="1" />
+      <File FileName="Views/Home/FilterPage.cshtml" Line="1" Column="3" NotebookId="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.World PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
